@@ -59,5 +59,6 @@ Midjourney：
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 
-## Link do e-book:
-- [Linguagem Corporal]([https://chat.openai.com/](https://github.com/LetsColi/ebook/blob/main/Ebook_Linguagem%20Corporal.pdf)) 
+## Link do e-book: 
+https://github.com/LetsColi/ebook/blob/main/Ebook_Linguagem%20Corporal.pdf
+
